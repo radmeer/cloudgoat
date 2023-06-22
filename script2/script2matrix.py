@@ -1,9 +1,9 @@
 import boto3
 import json
+import requests
 
-# This script will list all the S3 buckets in the account using the IAM user credentials 
-# exploiting the AWS IAM user policy version rollback vulnerability
-# https://resources.infosecinstitute.com/topic/cloudgoat-walkthrough-series-iam-privilege-escalation-by-rollback/
+# This script will invokelambda function using AWA credentials from reverse proxy vulnerable  
+# https://resources.infosecinstitute.com/topic/cloudgoat-walkthrough-series-cloud-breach-s3/
 
 # Load AWS credentials from .secure/credentials.json
 with open('.secure/credentials.json', 'r') as file:
