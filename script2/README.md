@@ -6,9 +6,7 @@ In the vast expanse of the Matrix, Neo, finds himself an outsider - a zero in a 
 
 Much like a keymaker, Neo crafts his entry. He queries the EC2 metadata service, an unassuming gatekeeper of secrets, to acquire the 'instance profile keys' the digital equivalent of the Matrix's backdoors. 
 
-In the blink of an eye, the faceless Neo morphs into an entity of significance, armed with newfound privileges that even Agent Smith would take notice of.
-
-His aim? A guarded treasure trove known as an S3 bucket, brimming with sensitive data. With the keys in his possession, Neo traverses the labyrinthine Matrix, bypassing security checks as if he'd known the code his entire life.
+In the blink of an eye, the faceless Neo morphs into an entity of significance, armed with newfound privileges that even Agent Smith would take notice of. With the keys in his possession, Neo traverses the labyrinthine Matrix, bypassing security checks as if he'd known the code his entire life.
 
 As he delves deeper into the Matrix, he finds what he seeks - the sensitive data within the S3 bucket. His mission culminates in the successful exfiltration of the coveted information, proving yet again that in the Matrix, even an outsider can defy the rules.
 
