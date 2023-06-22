@@ -1,5 +1,6 @@
 # AWS exploits SAGA
 
+
 ## (SCRIPT1) Harry Potter and the Chamber of Privileges 
 
 From a place of extremely constrained privileges, Harry, found himself within the complex and arcane world of IAM policy versions. Buried within these digital layers of time, there lay dormant older policies, forgotten relics of an era less secure, that granted privileges of an alarmingly unrestricted nature.
